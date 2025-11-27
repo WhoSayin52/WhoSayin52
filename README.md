@@ -50,7 +50,7 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 ## 🌱 Interests
 
 - Strategy games & puzzles 🧩
-- Open-source contributions 🌐
+- Open-source contributions 🌍
 - Web & Game programming 🎨
 - Fitness & lifting 🏋️‍♂️
 - Always learning new things 🚀
