@@ -50,8 +50,10 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Where to find me
-<a href="mailto:HusseinAyadDev@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/hussein-ayad-57aa7b392/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:HusseinAyadDev@pm.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-ayad-57aa7b392/)
 
 ## 🌱 Interests
 
