@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Hello World 💻
 
 I'm a self-taught developer striving to be the best at my craft. I enjoy building projects from scratch and contributing to open-source software.
-Currently, I'm deepening my knowledge in **OpenGL** and always eager to learn new technologies and frameworks.
+Currently, I'm deepening my knowledge in **Graphics Programming** and always eager to learn new technologies and frameworks.
 
-Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—I believe in training both the mind and the body.
+Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—I believe in training both the body and the mind.
 
 ## Skills
 
@@ -57,5 +57,6 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 - Strategy games & puzzles 🧩
 - Open-source contributions 🌍
 - Low-Level programming 🎨
+- Real-Time Graphics 👾
 - Fitness & lifting 🏋️‍♂️
 - Always learning new things 🚀
