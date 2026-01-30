@@ -43,6 +43,7 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-0078D7?style=for-the-badge&logo=SDL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄 Databases
