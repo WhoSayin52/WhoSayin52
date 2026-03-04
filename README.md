@@ -1,6 +1,6 @@
 # Hello World 💻
 
-I'm a self-taught developer striving to be the best at my craft. I enjoy building projects from scratch and contributing to open-source software.
+I'm a self-taught developer striving to be the best at my craft. I enjoy building projects from scratch and turning ideas into fully working systems.
 Currently, I'm deepening my knowledge in Graphics Programming, exploring rendering pipelines, shaders, and real-time systems.
 
 Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—I believe in training both the body and the mind.
@@ -36,7 +36,6 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 ## 🌱 Interests
 
 - Strategy games & puzzles 🧩
-- Open-source contributions 🌍
 - Low-Level programming 🎨
 - Real-Time Graphics 👾
 - Fitness & lifting 🏋️‍♂️
