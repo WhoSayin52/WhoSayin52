@@ -3,8 +3,6 @@
 I'm a self-taught developer striving to be the best at my craft. I enjoy building projects from scratch and turning ideas into fully working systems.
 Currently, I'm deepening my knowledge in Graphics Programming, exploring rendering pipelines, shaders, and real-time systems.
 
-Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—I believe in training both the body and the mind.
-
 ## Skills
 
 ### 💻 Languages
@@ -34,11 +32,12 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 
 ## 🌱 Interests
 
-- Strategy games & puzzles 🧩
-- Low-Level programming 🎨
-- Real-Time Graphics 👾
-- Fitness & lifting 🏋️‍♂️
-- Always learning new things 🚀
+- Strategy Games & Puzzles 🧩
+- Game Development & Game Engine Architecture 🎮
+- Low-Level Programming (C/C++) ⚙️
+- Real-Time Graphics & Rendering 👾
+- Fitness & Lifting 🏋️‍♂️
+- Always Learning 🚀
 
 <!--
 **WhoSayin52/whosayin52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
